@@ -1,7 +1,7 @@
 # Ghost Adventure Game
 
 <div align="center">
-  <img src="https://github.com/asadali756/Dragons_Ascendancy/commit/991b64b68af52df51b62e3c1b43812c967eae282" alt="Ghost Adventure Game" width="500">
+  <img src="https://github.com/asadali756/Dragons_Ascendancy/blob/master/Games.JPG" alt="Ghost Adventure Game" width="500">
 </div>
 
 ## Overview
